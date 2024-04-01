@@ -1,4 +1,4 @@
-# WXT + SolidJS
+This is a browser extension that aim to provide a better reddit experience for a user not logged in.
 
-This template should help get you started developing with SolidJS in WXT.
-# justreddit
+Current feature:
+- redirect to old.reddit.com
